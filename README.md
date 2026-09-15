@@ -9,7 +9,7 @@
 
 **EL QUE SALTA** es un juego de plataformas 2D de bajo nivel desarrollado desde cero en **lenguaje ensamblador 68000**. Diseñado sin bibliotecas de alto nivel ni motores de terceros, cuenta con un renderizador gráfico personalizado, un motor de mapas de tiles, un sistema de detección de colisiones, un bucle de físicas y reproducción de audio.
 
-El jugador controla a un héroe alienígena que debe avanzar verticalmente a través de **11 mapas de tiles** hasta alcanzar la plataforma superior y conseguir la victoria.
+El jugador controla al personaje que debe avanzar verticalmente a través de **11 mapas de tiles** hasta alcanzar la plataforma superior y conseguir la victoria.
 
 ---
 
