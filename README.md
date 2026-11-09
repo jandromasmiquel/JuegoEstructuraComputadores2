@@ -40,7 +40,7 @@ El jugador controla al personaje que debe avanzar verticalmente a través de **1
 ## Estructura de la arquitectura y del código
 
 ```text
-OPTIMITRIX/
+ElQueSalta/
 ├── MAIN.X68        # Punto de entrada principal y bucle de sincronización a 100 FPS
 ├── SYSTEM.X68      # Inicialización del hardware, rutinas de interrupción del temporizador y doble búfer
 ├── STATES.X68      # Máquina de estados del juego (inicialización, juego, pausa y pantalla de victoria)
